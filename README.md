@@ -1,12 +1,28 @@
 # Weather-app
-## About the Project
-This is a simple Weather App that shows the live weather of different cities. It is built using HTML, CSS, and JavaScript.
+# 🌦️ Weather Detection App
 
-## Tech Used
-* **HTML**: Used for creating the structure of the application.
-* **CSS**: Used for designing and styling the interface.
-* **JavaScript**: Used for fetching data from the API and displaying it.
+## 📌 About the Project
+This is a simple and interactive Weather App that displays real-time weather information for any city. The application fetches live data from a weather API and shows details like temperature and weather conditions.
 
-## How to Use
-1. Download all the files.
-2. Open index.html in your browser.
+## 🚀 Features
+- 🌍 Search weather by city name  
+- 🌡️ Displays temperature and weather condition  
+- ⚡ Real-time data using API  
+- 🎨 Clean and simple UI  
+
+## 🛠️ Tech Stack
+- **HTML** – Structure of the app  
+- **CSS** – Styling and design  
+- **JavaScript** – Fetching API and dynamic updates  
+
+## ▶️ How to Run
+1. Download or clone this repository  
+2. Open `index.html` in your browser  
+
+## 🔮 Future Improvements
+- Add location-based weather  
+- Improve UI with animations  
+- Add more weather details (humidity, wind speed)
+
+## 🙋‍♀️ Author
+- Antra Chauhan
