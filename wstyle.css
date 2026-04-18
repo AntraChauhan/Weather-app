@@ -1,0 +1,18 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #87CEEB;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+input, button {
+    padding: 10px;
+    margin: 5px;
+}
+.bg{
+    background: #1e844f;
+    color: rgb(166, 46, 46);
+}
